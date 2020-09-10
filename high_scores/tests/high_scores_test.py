@@ -42,7 +42,7 @@ class HighScoresTest(unittest.TestCase):
         self.assertEqual(expected, personal_top_three(scores))
 
 
-        # important comment
+        # High scores work complete. Ready for merge.
 
 
 if __name__ == "__main__":
